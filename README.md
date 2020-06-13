@@ -4,6 +4,8 @@ App de podcast integrada con la API DE Audioboom para aprender Next.JS
 
 ![Captura de la app] (./.readme.static/podcast.png)
 
+[Ver la aplicacion](https://podcasts-9jj4oj18r.vercel.app/)
+
 ## ¿Cómo funciona?
 
 Requiere Node.JS 10
